@@ -1,0 +1,43 @@
+{
+  "name": "task-board",
+  "columns": [
+    {
+      "id": "bf733209-af39-4aa4-a7a8-960b80d3bfab",
+      "name": "todo",
+      "tasks": [
+        {
+          "id": "a1dcf736-677d-41ed-a51d-427d6328bfc3",
+          "name": "Task #1",
+          "description": "This task is about implementing a new feature in the application."
+        }
+      ]
+    },
+    {
+      "id": "1c50bd78-4161-4fdf-8682-21208f40f3fa",
+      "name": "in-progress",
+      "tasks": [
+        {
+          "id": "5a7a143c-09d2-4255-98c1-7aceab91e31f",
+          "name": "Task #2",
+          "description": "This task is about implementing a new feature in the application."
+        }
+      ]
+    },
+    {
+      "id": "bf0d1097-3458-479c-a7db-629c27d4d982",
+      "name": "complete",
+      "tasks": [
+        {
+          "id": "50805051-9471-4b49-b229-8ba211af0f86",
+          "name": "Task #3",
+          "description": "This task is about implementing a new feature in the application."
+        },
+        {
+          "id": "50805051-9471-4b49-b229-8ba211af0f23",
+          "name": "Task #4",
+          "description": "This task is about implementing a new feature in the application."
+        }
+      ]
+    }
+  ]
+}
